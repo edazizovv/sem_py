@@ -17,5 +17,7 @@ data = gen2(0.5, 1.0, 2.0, 2.0, 1.0)
 
 
 
-result = sem(data=data, n_iter=10000, n_components=2, 
+result = sem(data=data, n_iter=100, n_components=2,
              sem_dll_libname='sem_cpp.dll', sem_dll_loader_path=d)
+
+

@@ -1,0 +1,4 @@
+The following directions of development are formulated for this project:
+
+	> efficient (in some sense) pure pythonic SEM realisation
+	> dynamic interaction with sem_cpp (e.g. creation of it's .dll files and using them)
