@@ -1,1 +1,3 @@
 *.dll
+.idea/
+__pycache__/

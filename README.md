@@ -1,2 +1,7 @@
-# sem_py
-This is a package implementing SEM algorithm
+# Summary
+
+Archieved.
+
+Some implementation of Stochastic Expectation Maximization algorithm.
+
+Maybe not working.
